@@ -1,0 +1,55 @@
+
+.logo{
+    padding: 5px 0px 5px 80px;
+}
+
+/*---------------register box----------------*/
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(ba1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.login1-box{
+   
+    min-width: 900px;
+    float: none;
+    align-items: center;
+    margin: 100px 300px 0px 350px;
+}
+
+.login2-box{
+    
+    width: 1000px;
+    height: 800px;
+    float: none;
+    align-items: center;
+    margin: 50px 300px 0px 350px ;
+}
+
+.login-left{
+    background: rgba(211, 211, 211, 0.75);
+    padding: 30px;
+}
+.login-right{
+    background: rgba(211, 211, 211, 0.6);
+    border-radius: 5px;
+    /*background: #fff;*/
+    padding: 10px ;
+}
+.form-control{
+    background-color: transparent;
+}
+
+.logo img{
+    width: 150px;
+    position: fixed;
+    padding: 20px 0px 0px 10px;
+   
+}
+
+.container{
+    align-items: center;
+    margin: auto;
+    padding: 10px 20px 10px 20px ;
+}
